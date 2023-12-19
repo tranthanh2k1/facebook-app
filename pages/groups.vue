@@ -1,0 +1,1 @@
+<template>Groups page</template>

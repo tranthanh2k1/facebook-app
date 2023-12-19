@@ -5,4 +5,8 @@ export default defineNuxtConfig({
 	imports: {
 		autoImport: false,
 	},
+	components: {
+		global: true,
+		dirs: ["~/components"],
+	},
 });
