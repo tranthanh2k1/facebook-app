@@ -1,7 +1,7 @@
 <template>
 	<header class="shadow">
 		<div class="mx-4 h-14 flex items-center justify-between">
-			<div class="flex items-center gap-3">
+			<div class="flex items-center gap-3 w-[360px]">
 				<IconsLogo />
 				<div class="flex items-center rounded-[50px] bg-[#f0f2f5]">
 					<div class="pl-3">
@@ -17,7 +17,7 @@
 			<div class="h-full">
 				<LayoutsMenu />
 			</div>
-			<div class="flex gap-2">
+			<div class="flex justify-end gap-2 w-[360px]">
 				<div
 					class="w-10 h-10 bg-[#e4e6eb] rounded-full flex justify-center items-center cursor-pointer"
 				>
