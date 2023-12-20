@@ -1,0 +1,1 @@
+<template>Watch page</template>

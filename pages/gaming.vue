@@ -1,0 +1,1 @@
+<template>Gaming page</template>
