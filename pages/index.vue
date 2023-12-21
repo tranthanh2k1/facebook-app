@@ -1,11 +1,7 @@
 <template>
-	<div class="text-3xl">Home page</div>
+	<div class="flex justify-between">
+		<HomeMenuBar />
+		<div class="flex justify-center">Content</div>
+		<div class="w-[360px]">Right</div>
+	</div>
 </template>
-
-<script setup>
-import { onMounted } from "vue";
-
-onMounted(() => {
-	console.log("object", this);
-});
-</script>
